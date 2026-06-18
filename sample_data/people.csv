@@ -1,6 +1,7 @@
-Name,Email,City
-Ada Lovelace,ada@example.com,London
-Alan Turing,alan@example.com,Manchester
-Ada Lovelace,ada@example.com,London
-Grace Hopper,grace@example.com,New York
+Name,Email,City,Country
+Ada Lovelace,ada@example.com,London,UK
+Alan Turing,alan@example.com,Manchester,UK
+Ada Lovelace,ada@example.com,London,UK
+Grace Hopper,grace@example.com,New York,USA
+Katherine Johnson,kathy@example.com,White Sulphur Springs,USA
 
