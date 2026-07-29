@@ -35,7 +35,7 @@ def main():
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
-    print(f"wrote {len(rows)} rows -> {args.output}")
+    print(f"wrote {len(rows)} unique rows -> {args.output}")
 
 
 if __name__ == "__main__":
